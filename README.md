@@ -55,7 +55,7 @@ int main(void)
 ```
 
 No magic. Just pain.  
-Welcome to 42.
+Welcome to 1337 💀💀💀💀💀💀💀💀.
 
 ---
 
