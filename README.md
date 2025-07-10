@@ -35,7 +35,7 @@ LOL.
 ## 📚 Piscine Tips That Actually Work
 
 Instead of wasting your time here:
-- Rewrite `ft_putchar_fd` for the 100th time.
+- Rewrite `write` hhhhhh for the 100th time.
 - Read the subject. Then read it again.
 - Break your code. Fix it. Break it again.
 - Sleep 4 hours. Survive on coffee and stress.
