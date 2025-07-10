@@ -50,7 +50,7 @@ int main(void)
 {
     write(1, "Piscine secret unlocked: just code. That’s it.
 ", 47);
-    return (42);
+    return (1337);
 }
 ```
 
